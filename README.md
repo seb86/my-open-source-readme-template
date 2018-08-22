@@ -184,5 +184,5 @@ Want to learn more?
 ---
 
 <p align="center">
-	<img src="" width="160">
+	<img src="https://raw.githubusercontent.com/seb86/my-open-source-readme-template/master/a-sebastien-dumont-production.png" width="353">
 </p>
