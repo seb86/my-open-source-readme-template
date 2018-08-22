@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-GPL--3.0%2B-red.svg)](https://github.com/seb86/{github-repo-slug}/blob/master/LICENSE.md)
 [![GitHub forks](https://img.shields.io/github/forks/seb86/{github-repo-slug}.svg?style=flat)](https://github.com/seb86/{github-repo-slug}/network)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text={Message Placed Here}%20—&url=https://github.com/seb86/{github-repo-slug}//&via=sebd86&hashtags={WordPress})
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Message%20Placed%20Here%20—&url=https://github.com/seb86/github-repo-slug/&via=sebd86&hashtags=WordPress)
 
 <!--
 Uncomment this if the project is a WordPress plugin available on WordPress.org
