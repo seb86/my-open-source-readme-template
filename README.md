@@ -85,10 +85,10 @@ To use this {plugin/extension} you will need:
 <!-- Most projects would be a WordPress plugin or WooCommerce extension so installation instructions would be required. -->
 
 1. Download a `.zip` file with the [latest version](https://github.com/seb86/{github-repo-slug}/releases).
-* Go to **WordPress Admin > Plugins > Add New**.
-* Click **Upload Plugin** at the top.
-* **Choose File** and select the `.zip` file you downloaded in **Step 1**.
-* Click **Install Now** and **Activate** the {plugin/extension}.
+2. Go to **WordPress Admin > Plugins > Add New**.
+3. Click **Upload Plugin** at the top.
+4. **Choose File** and select the `.zip` file you downloaded in **Step 1**.
+5. Click **Install Now** and **Activate** the {plugin/extension}.
 
 
 <!--
