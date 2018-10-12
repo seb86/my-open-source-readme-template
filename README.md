@@ -10,29 +10,27 @@ Uncomment this if the project is a WordPress plugin available on WordPress.org
 **Contributors:** sebd86  
 **Tags:**   
 **Requires at least:** 4.4  
-**Tested up to:** 4.9  
+**Tested up to:** 4.9.8  
 **Requires PHP:** 5.6  
-**WC requires at least: 3.2.0  
-**WC tested up to: 3.4.4  
+**WC requires at least:** 3.2.0  
+**WC tested up to:** 3.4.5  
 **Stable tag:** 1.0.0  
 **License:** GPL v2 or later  
 -->
 
 A good description about what the project is.
 
-<!--
-Uncomment this section if the project has a website and social networks.
 
-###### Follow us
+###### Follow me
 💻 [Website](https://sebastiendumont.com) 🐦[Twitter](https://twitter.com/sebd86)
--->
 
-## Overview 🔔
+
+## 🔔 Overview
 
 Explain an overview on what {Project Title} is for and what it can do.
 
 
-### Is This Free?
+### 😄 Is This Free?
 
 Yes, it's free. But here's what you should _really_ care about:
 
@@ -41,7 +39,7 @@ Yes, it's free. But here's what you should _really_ care about:
 <!-- List other good things about this project. -->
 
 
-### What's the Catch?
+### ❓ What's the Catch?
 
 <!-- The project may or may not need further development only maintenance. -->
 
@@ -60,17 +58,28 @@ If you:
 
 Please understand that this repository is not a place to seek help with configuration-related issues. Use it to report bugs, propose improvements, or discuss new features.
 
-## Guide 📘
+## 🍧 Features and Benefits
+<!-- List features and benefits for this project here. -->
+
+This project is awesome. Look at all the awesome features it has.
+
+* Awesome feature.
+* Awesome feature.
+* Awesome feature.
+* Awesome feature.
+
+
+## 📘 Guide
 
 <!--
 Uncomment this section if the project has documentation available.
 
-#### Documentation 📖
+#### 📖 Documentation
 
 -->
 
 
-#### Requirements ✅
+#### ✅ Requirements
 
 To use this {plugin/extension} you will need:
 
@@ -80,7 +89,7 @@ To use this {plugin/extension} you will need:
 <!-- List other requirements the project will require to work. -->
 
 
-#### Installation 💽
+#### 💽 Installation
 
 <!-- Most projects would be a WordPress plugin or WooCommerce extension so installation instructions would be required. -->
 
@@ -104,12 +113,12 @@ Uncomment this section if you are providing steps to configure the project.
 -->
 
 
-### Usage
+### 💜 Usage
 
 > Information on how to use {Project Title} goes here.
 
 
-## Support ⭐
+## ⭐ Support
 
 {Project Title} is released freely and openly. Feedback or ideas and approaches to solving limitations in {Project Title} is greatly appreciated.
 
@@ -125,7 +134,7 @@ At present I **do not offer a dedicated, premium support channel** for {Project 
 * Support inquiries may not be answered in a timely manner.
 * Critical issues may not be resolved promptly.
 
-#### Reporting Issues 📝
+#### 📝 Reporting Issues
 
 If you think you have found a bug in the {project/plugin/extension}, a problem with the documentation, or want to see a new feature added, please [open a new issue](https://github.com/seb86/{github-repo-slug}/issues/new) and I will do my best to help you out.
 
