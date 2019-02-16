@@ -1,5 +1,10 @@
 # {Project Title}
 
+[![WordPress Plugin Page](https://img.shields.io/badge/WordPress-%E2%86%92-lightgrey.svg?style=flat-square)](https://wordpress.org/plugins/{plugin-slug}/)
+[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/{plugin-slug}.svg?style=flat)](https://wordpress.org/plugins/{plugin-slug}/) 
+[![WordPress Tested Up To](https://img.shields.io/wordpress/v/{plugin-slug}.svg?style=flat)](https://wordpress.org/plugins/{plugin-slug}/)
+[![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/r/{plugin-slug}.svg?style=flat-square)](https://wordpress.org/support/view/plugin-reviews/{plugin-slug}?filter=5)
+[![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/{plugin-slug}.svg?style=flat)](https://wordpress.org/plugins/{plugin-slug}/)
 [![License](https://img.shields.io/badge/license-GPL--3.0%2B-red.svg)](https://github.com/seb86/{github-repo-slug}/blob/master/LICENSE.md)
 [![GitHub forks](https://img.shields.io/github/forks/seb86/{github-repo-slug}.svg?style=flat)](https://github.com/seb86/{github-repo-slug}/network)
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Message%20Placed%20Here%20—&url=https://github.com/seb86/github-repo-slug/&via=sebd86&hashtags=WordPress)
@@ -9,10 +14,10 @@ Uncomment this if the project is a WordPress plugin available on WordPress.org
 
 **Contributors:** sebd86  
 **Tags:**   
-**Requires at least:** 4.4  
-**Tested up to:** 4.9.8  
 **Requires PHP:** 5.6  
-**WC requires at least:** 3.2.0  
+**Requires at least:** 4.4  
+**Tested up to:** 5.1  
+**WC requires at least:** 3.4.0  
 **WC tested up to:** 3.4.5  
 **Stable tag:** 1.0.0  
 **License:** GPL v2 or later  
@@ -83,8 +88,8 @@ Uncomment this section if the project has documentation available.
 
 To use this {plugin/extension} you will need:
 
-* PHP v5.6+ (Recommend PHP v7.0+)
-* WordPress v4.4+
+* PHP v5.6 (Recommend PHP v7.0+)
+* WordPress v4.4 minimum
 
 <!-- List other requirements the project will require to work. -->
 
@@ -141,15 +146,18 @@ If you think you have found a bug in the {project/plugin/extension}, a problem w
 
 ## Contribute
 
-If you or your company use {Project Title} or appreciate the work I’m doing in open source, please consider supporting me directly so I can continue maintaining it and keep evolving the project. It's pretty clear that software actually costs something, and even though it may be offered freely, somebody is paying the cost.
+If you or your company use {Project Title} or appreciate the work I’m doing in open source, please consider supporting me directly so I can continue maintaining it and keep evolving the project.
 
-You'll be helping to ensure I can spend the time not just fixing bugs, adding features, releasing new versions, but also keeping the project afloat. Any contribution you make is a big help and is greatly appreciated.
+You'll be helping to ensure I can spend the time not just fixing bugs, adding features or releasing new versions but also keeping the project afloat. Any contribution you make is a big help and is greatly appreciated.
 
-Please also consider starring ✨ and sharing 👍 the repo! This helps the project getting known and grow with the community. 🙏
+Please also consider starring ✨ and sharing 👍 the project repository! This helps the project getting known and grow with the community. 🙏
 
-If you want to do a one-time donation, you can donate to:
+I accept one-time donations and monthly via [BuyMeACoffee.com](https://www.buymeacoffee.com/sebastien)
 - [My PayPal](https://www.paypal.me/codebreaker)
 - [BuyMeACoffee.com](https://www.buymeacoffee.com/sebastien)
+- Bitcoin (BTC): `3L4cU7VJsXBFckstfJdP2moaNhTHzVDkKQ`
+- Ethereum (ETH): `0xc6a3C18cf11f5307bFa11F8BCBD51F355b6431cB`
+- Litecoin (LTC): `MNNy3xBK8sM8t1YUA2iAwdi9wRvZp9yRoi`
 
 <!--
 Need to work on how to support monthly donations. Once I have figured it out, share details here.
