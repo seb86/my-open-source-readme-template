@@ -13,6 +13,7 @@
 Uncomment this if the project is a WordPress plugin available on WordPress.org
 
 **Contributors:** sebd86  
+**Donate link:** https://sebdumont.xyz/donate/  
 **Tags:**   
 **Requires PHP:** 5.6  
 **Requires at least:** 4.4  
