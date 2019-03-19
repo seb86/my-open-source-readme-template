@@ -14,10 +14,10 @@ Uncomment this if the project is a WordPress plugin available on WordPress.org
 
 **Contributors:** sebd86  
 **Donate link:** https://sebdumont.xyz/donate/  
-**Tags:**   
+**Tags:** plugin  
 **Requires PHP:** 5.6  
 **Requires at least:** 4.4  
-**Tested up to:** 5.1  
+**Tested up to:** 5.1.1  
 **WC requires at least:** 3.4.0  
 **WC tested up to:** 3.4.5  
 **Stable tag:** 1.0.0  
@@ -26,6 +26,7 @@ Uncomment this if the project is a WordPress plugin available on WordPress.org
 
 A good description about what the project is.
 
+Quick Links: [Overview](#-overview) | [Features and Benefits](#-features-and-benefits) | [Guide](#-guide) | [Support](#-support) | [Contribute](#-contribute) | [Supporters](#-supporters)
 
 ###### Follow me
 💻 [Website](https://sebastiendumont.com) 🐦[Twitter](https://twitter.com/sebd86)
@@ -89,7 +90,7 @@ Uncomment this section if the project has documentation available.
 
 To use this {plugin/extension} you will need:
 
-* PHP v5.6 (Recommend PHP v7.0+)
+* PHP v5.6 minimum (Recommend PHP v7.0+)
 * WordPress v4.4 minimum
 
 <!-- List other requirements the project will require to work. -->
@@ -145,7 +146,7 @@ At present I **do not offer a dedicated, premium support channel** for {Project 
 If you think you have found a bug in the {project/plugin/extension}, a problem with the documentation, or want to see a new feature added, please [open a new issue](https://github.com/seb86/{github-repo-slug}/issues/new) and I will do my best to help you out.
 
 
-## Contribute
+## 👍 Contribute
 
 If you or your company use {Project Title} or appreciate the work I’m doing in open source, please consider supporting me directly so I can continue maintaining it and keep evolving the project.
 
@@ -177,7 +178,7 @@ If you would like to contribute code to this project then please follow these [c
 
 Thank you for your support! 🙌
 
-## Supporters
+## 🎆 Supporters
 
 > No supporters yet! 🔒
 
