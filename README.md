@@ -1,7 +1,7 @@
 # {Project Title}
 
 [![WordPress Plugin Page](https://img.shields.io/badge/WordPress-%E2%86%92-lightgrey.svg?style=flat-square)](https://wordpress.org/plugins/{plugin-slug}/)
-[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/{plugin-slug}.svg?style=flat)](https://wordpress.org/plugins/{plugin-slug}/) 
+[![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/{plugin-slug}.svg?style=flat)](https://wordpress.org/plugins/{plugin-slug}/)
 [![WordPress Tested Up To](https://img.shields.io/wordpress/v/{plugin-slug}.svg?style=flat)](https://wordpress.org/plugins/{plugin-slug}/)
 [![WordPress Plugin Rating](https://img.shields.io/wordpress/plugin/r/{plugin-slug}.svg?style=flat-square)](https://wordpress.org/support/view/plugin-reviews/{plugin-slug}?filter=5)
 [![WordPress Plugin Downloads](https://img.shields.io/wordpress/plugin/dt/{plugin-slug}.svg?style=flat)](https://wordpress.org/plugins/{plugin-slug}/)
@@ -29,13 +29,12 @@ A good description about what the project is.
 Quick Links: [Overview](#-overview) | [Features and Benefits](#-features-and-benefits) | [Guide](#-guide) | [Support](#-support) | [Contribute](#-contribute) | [Supporters](#-supporters)
 
 ###### Follow me
-💻 [Website](https://sebastiendumont.com) 🐦[Twitter](https://twitter.com/sebd86)
 
+💻 [Website](https://sebastiendumont.com) 🐦[Twitter](https://twitter.com/sebd86)
 
 ## 🔔 Overview
 
 Explain an overview on what {Project Title} is for and what it can do.
-
 
 ### 😄 Is This Free?
 
@@ -44,7 +43,6 @@ Yes, it's free. But here's what you should _really_ care about:
 * The code adheres to the [WordPress Coding Standards](https://codex.wordpress.org/WordPress_Coding_Standards) and follows best practices and conventions.
 
 <!-- List other good things about this project. -->
-
 
 ### ❓ What's the Catch?
 
@@ -66,6 +64,7 @@ If you:
 Please understand that this repository is not a place to seek help with configuration-related issues. Use it to report bugs, propose improvements, or discuss new features.
 
 ## 🍧 Features and Benefits
+
 <!-- List features and benefits for this project here. -->
 
 This project is awesome. Look at all the awesome features it has.
@@ -74,7 +73,6 @@ This project is awesome. Look at all the awesome features it has.
 * Awesome feature.
 * Awesome feature.
 * Awesome feature.
-
 
 ## 📘 Guide
 
@@ -85,7 +83,6 @@ Uncomment this section if the project has documentation available.
 
 -->
 
-
 #### ✅ Requirements
 
 To use this {plugin/extension} you will need:
@@ -94,7 +91,6 @@ To use this {plugin/extension} you will need:
 * WordPress v4.4 minimum
 
 <!-- List other requirements the project will require to work. -->
-
 
 #### 💽 Installation
 
@@ -105,7 +101,6 @@ To use this {plugin/extension} you will need:
 3. Click **Upload Plugin** at the top.
 4. **Choose File** and select the `.zip` file you downloaded in **Step 1**.
 5. Click **Install Now** and **Activate** the {plugin/extension}.
-
 
 <!--
 Uncomment this section if you are providing steps to configure the project.
@@ -119,11 +114,9 @@ Uncomment this section if you are providing steps to configure the project.
 #### 3. Step Title
 -->
 
-
 ### 💜 Usage
 
 > Information on how to use {Project Title} goes here.
-
 
 ## ⭐ Support
 
@@ -145,21 +138,21 @@ At present I **do not offer a dedicated, premium support channel** for {Project 
 
 If you think you have found a bug in the {project/plugin/extension}, a problem with the documentation, or want to see a new feature added, please [open a new issue](https://github.com/seb86/{github-repo-slug}/issues/new) and I will do my best to help you out.
 
-
 ## 👍 Contribute
 
-If you or your company use {Project Title} or appreciate the work I’m doing in open source, please consider supporting me directly so I can continue maintaining it and keep evolving the project.
+If you or your company use **{Project Title}** or appreciate the work I’m doing in open source, please consider supporting me directly so I can continue maintaining it and keep evolving the project.
 
 You'll be helping to ensure I can spend the time not just fixing bugs, adding features or releasing new versions but also keeping the project afloat. Any contribution you make is a big help and is greatly appreciated.
 
 Please also consider starring ✨ and sharing 👍 the project repository! This helps the project getting known and grow with the community. 🙏
 
 I accept one-time donations and monthly via [BuyMeACoffee.com](https://www.buymeacoffee.com/sebastien)
-- [My PayPal](https://www.paypal.me/codebreaker)
-- [BuyMeACoffee.com](https://www.buymeacoffee.com/sebastien)
-- Bitcoin (BTC): `3L4cU7VJsXBFckstfJdP2moaNhTHzVDkKQ`
-- Ethereum (ETH): `0xc6a3C18cf11f5307bFa11F8BCBD51F355b6431cB`
-- Litecoin (LTC): `MNNy3xBK8sM8t1YUA2iAwdi9wRvZp9yRoi`
+
+* [My PayPal](https://www.paypal.me/codebreaker)
+* [BuyMeACoffee.com](https://www.buymeacoffee.com/sebastien)
+* Bitcoin (BTC): `3L4cU7VJsXBFckstfJdP2moaNhTHzVDkKQ`
+* Ethereum (ETH): `0xc6a3C18cf11f5307bFa11F8BCBD51F355b6431cB`
+* Litecoin (LTC): `MNNy3xBK8sM8t1YUA2iAwdi9wRvZp9yRoi`
 
 <!--
 Need to work on how to support monthly donations. Once I have figured it out, share details here.
@@ -190,11 +183,9 @@ Want to learn more?
 
 <!-- Maybe add a link to an article or page where you demonstrate {project title}. -->
 
-
 ##### License
 
 {Project Title} is released under [GNU General Public License v3.0](http://www.gnu.org/licenses/gpl-3.0.html).
-
 
 ##### Credits
 
